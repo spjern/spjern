@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spjern
-- 👀 I’m interested in ... front-end web developement & the user's experience, music, and yoga.
+- 👀 I’m interested in ... full-stack web developement & the user's experience, also music, yoga, creation.
 - 🌱 I’m currently learning ... HTML and CSS
 - 📫 How to reach me ... spjcruise@gmail.com
 
