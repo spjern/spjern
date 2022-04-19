@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spjern
 - 👀 I’m interested in ... full-stack web developement & the user's experience, also music, yoga, creation.
-- 🌱 I’m currently learning ... HTML and CSS
+- 🌱 I’m currently learning ... JavaScript
 - 📫 How to reach me ... spjcruise@gmail.com
 
 <!---
